@@ -140,7 +140,7 @@ public partial class MainWindow : Window
         LoadFiles(Path.Combine(Directory.GetCurrentDirectory(), "Scripts"));
         LoadSettings();
 
-        WriteToTerminal($"Welcome to Velocity (Cosmic) by XomYoshi, {Environment.UserName}");
+        WriteToTerminal($"Welcome to VelocityCosmic by XomYoshi, {Environment.UserName}");
         WriteToTerminal("Supported version: version-ae421f0582e54718");
 
         WriteToTerminal("Initializing...");
