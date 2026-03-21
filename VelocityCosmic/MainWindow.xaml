@@ -1,4 +1,4 @@
-﻿<Window x:Class="VelocityCosmic.MainWindow"
+<Window x:Class="VelocityCosmic.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
@@ -407,7 +407,7 @@
                                                                 <ColumnDefinition Width="Auto"/>
                                                             </Grid.ColumnDefinitions>
                                                             <StackPanel Grid.Column="0" VerticalAlignment="Center" Orientation="Vertical" Margin="10,0">
-                                                                <TextBlock x:Name="HideVecTitle" Foreground="White" Opacity="0.8" FontSize="20" Text="Hide Velocity (Cosmic) from capture"/>
+                                                                <TextBlock x:Name="HideVecTitle" Foreground="White" Opacity="0.8" FontSize="20" Text="Hide VelocityCosmic from capture"/>
                                                                 <TextBlock x:Name="HideVelDesc" Margin="0,5,0,0" Foreground="White" Opacity="0.5" FontSize="15" Text="Hides this window from capturing software(s) such as OBS"/>
                                                             </StackPanel>
                                                             <ToggleButton x:Name="ToggleHideVel" Style="{StaticResource ToggleSwitchStyle}" VerticalAlignment="Center" Grid.Column="1" HorizontalAlignment="Right" Margin="0,0,25,0"/>
