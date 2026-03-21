@@ -1,4 +1,4 @@
-![VelocityCosmic Banner](images/1.png)
+![VelocityCosmic Banner](screenshots/1.png)
 
 # VelocityCosmic
 
